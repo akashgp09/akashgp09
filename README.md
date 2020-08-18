@@ -1,15 +1,17 @@
 <img src="https://i.imgur.com/IMKvTmk.png" height="240" width="100%" >
 <p align='center'>
 
-  [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/alphamatter1) 
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/alphamatter1)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@akashgp9)
 [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](akashgp.netlify.app)
 [<img src ="https://img.shields.io/badge/Mail-me-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:akashgp9@gmail.com)
 [![Visits Badge](https://badges.pufler.dev/visits/Akash-Gupta-Sudo/Akash-Gupta-Sudo?style=for-the-badge&color=blue)](https://github.com/Akash-Gupta-Sudo/Akash-Gupta-Sudo)
 ![Repos Badge](https://badges.pufler.dev/repos/Akash-Gupta-Sudo?style=for-the-badge&color=red)
+
 </p>
 
 ### Hi there 👋
+
 I am a web Developer, Who is slowly conquering the world of stack!
 Right from time, I've always been fascinated by computers and the logic that made them tick.
 This was the major factor that resulted in me picking an interest in programming and deciding to follow the software development career path.
@@ -20,11 +22,14 @@ This was the major factor that resulted in me picking an interest in programming
 - ⚡ Fun fact: I love making memes in my pastime.
 
 ### 📕 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [DRYing code in express.js using app.use()](https://medium.com/@akashgp9/drying-code-in-express-js-using-app-use-6a0492b1f5f0?source=rss-4b29ad99ade7------2)
 - [super vs super(props) in React.](https://medium.com/@akashgp9/super-vs-super-props-in-react-c6ae09b90dc3?source=rss-4b29ad99ade7------2)
 - [Why do we need to bind event handlers in React?](https://medium.com/@akashgp9/why-do-we-need-to-bind-event-handlers-in-react-15505f38f689?source=rss-4b29ad99ade7------2)
 <!-- BLOG-POST-LIST:END -->
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -45,4 +50,4 @@ This was the major factor that resulted in me picking an interest in programming
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
-
+<!--START_SECTION:activity-->
