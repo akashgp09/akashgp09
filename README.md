@@ -47,7 +47,6 @@ This was the major factor that resulted in me picking an interest in programming
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [DRYing code in express.js using app.use()](https://medium.com/@akashgp9/drying-code-in-express-js-using-app-use-6a0492b1f5f0?source=rss-4b29ad99ade7------2)
 - [super vs super(props) in React.](https://medium.com/@akashgp9/super-vs-super-props-in-react-c6ae09b90dc3?source=rss-4b29ad99ade7------2)
 - [Why do we need to bind event handlers in React?](https://medium.com/@akashgp9/why-do-we-need-to-bind-event-handlers-in-react-15505f38f689?source=rss-4b29ad99ade7------2)
