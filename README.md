@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/IMKvTmk.png" height="240" width="100%" >
+<img src="https://i.imgur.com/IMKvTmk.png" height="260" width="100%" >
 <p align='center'>
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/alphamatter1)
@@ -18,17 +18,10 @@ This was the major factor that resulted in me picking an interest in programming
 
 - 🌱 Currently working, learning and growing my skillset in web development.
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- 🌐 Visit my porfolio website for complete background and contact.
+- 🌐 Visit my [porfolio website](akashgp.netlify.app) for complete background and contact.
 - ⚡ Fun fact: I love making memes in my pastime.
 
-### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-
-- [DRYing code in express.js using app.use()](https://medium.com/@akashgp9/drying-code-in-express-js-using-app-use-6a0492b1f5f0?source=rss-4b29ad99ade7------2)
-- [super vs super(props) in React.](https://medium.com/@akashgp9/super-vs-super-props-in-react-c6ae09b90dc3?source=rss-4b29ad99ade7------2)
-- [Why do we need to bind event handlers in React?](https://medium.com/@akashgp9/why-do-we-need-to-bind-event-handlers-in-react-15505f38f689?source=rss-4b29ad99ade7------2)
-<!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools:
 
@@ -50,7 +43,21 @@ This was the major factor that resulted in me picking an interest in programming
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+- [DRYing code in express.js using app.use()](https://medium.com/@akashgp9/drying-code-in-express-js-using-app-use-6a0492b1f5f0?source=rss-4b29ad99ade7------2)
+- [super vs super(props) in React.](https://medium.com/@akashgp9/super-vs-super-props-in-react-c6ae09b90dc3?source=rss-4b29ad99ade7------2)
+- [Why do we need to bind event handlers in React?](https://medium.com/@akashgp9/why-do-we-need-to-bind-event-handlers-in-react-15505f38f689?source=rss-4b29ad99ade7------2)
+<!-- BLOG-POST-LIST:END -->
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#118](https://github.com//fossasia/2019.fossasia.org/issues/118) in [fossasia/2019.fossasia.org](https://github.com//fossasia/2019.fossasia.org)
 2. 💪 Opened PR [#167](https://github.com//fossasia/2019.fossasia.org/pull/167) in [fossasia/2019.fossasia.org](https://github.com//fossasia/2019.fossasia.org)
 <!--END_SECTION:activity-->
+
+</details>
