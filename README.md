@@ -51,3 +51,6 @@ This was the major factor that resulted in me picking an interest in programming
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#118](https://github.com//fossasia/2019.fossasia.org/issues/118) in [fossasia/2019.fossasia.org](https://github.com//fossasia/2019.fossasia.org)
+2. 💪 Opened PR [#167](https://github.com//fossasia/2019.fossasia.org/pull/167) in [fossasia/2019.fossasia.org](https://github.com//fossasia/2019.fossasia.org)
+<!--END_SECTION:activity-->
