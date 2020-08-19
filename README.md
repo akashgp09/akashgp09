@@ -3,7 +3,7 @@
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/alphamatter1)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@akashgp9)
-[<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](akashgp.netlify.app)
+[<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://akashgp.netlify.app/)
 [<img src ="https://img.shields.io/badge/Mail-me-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:akashgp9@gmail.com)
 [![Visits Badge](https://badges.pufler.dev/visits/Akash-Gupta-Sudo/Akash-Gupta-Sudo?style=for-the-badge&color=blue)](https://github.com/Akash-Gupta-Sudo/Akash-Gupta-Sudo)
 ![Repos Badge](https://badges.pufler.dev/repos/Akash-Gupta-Sudo?style=for-the-badge&color=red)
@@ -13,12 +13,12 @@
 ### Hi there 👋
 
 I am a web Developer, Who is slowly conquering the world of stack!
-Right from time, I've always been fascinated by computers and the logic that made them tick.
+Right from the time, I've always been fascinated by computers and the logic that made them tick.
 This was the major factor that resulted in me picking an interest in programming and deciding to follow the software development career path.
 
 - 🌱 Currently working, learning and growing my skillset in web development.
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- 🌐 Visit my [porfolio website](akashgp.netlify.app) for complete background and contact.
+- 🌐 Visit my [porfolio website](https://akashgp.netlify.app/) for complete background and contact.
 - ⚡ Fun fact: I love making memes in my pastime.
 
 
@@ -42,6 +42,7 @@ This was the major factor that resulted in me picking an interest in programming
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
 <br />
 
 ### 📕 Latest Blog Posts
