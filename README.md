@@ -45,7 +45,7 @@ This was the major factor that resulted in me picking an interest in programming
 <br  />
 
 
-### 📕 Latest Blog Posts
+## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [DRYing code in express.js using app.use()](https://medium.com/@akashgp9/drying-code-in-express-js-using-app-use-6a0492b1f5f0?source=rss-4b29ad99ade7------2)
 - [super vs super(props) in React.](https://medium.com/@akashgp9/super-vs-super-props-in-react-c6ae09b90dc3?source=rss-4b29ad99ade7------2)
