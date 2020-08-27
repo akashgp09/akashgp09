@@ -58,7 +58,7 @@ This was the major factor that resulted in me picking an interest in programming
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#118](https://github.com//fossasia/2019.fossasia.org/issues/118) in [fossasia/2019.fossasia.org](https://github.com//fossasia/2019.fossasia.org)
+1. 🗣 Commented on [#86](https://github.com//layer5io/meshery-consul/issues/86) in [layer5io/meshery-consul](https://github.com//layer5io/meshery-consul)
 2. 💪 Opened PR [#167](https://github.com//fossasia/2019.fossasia.org/pull/167) in [fossasia/2019.fossasia.org](https://github.com//fossasia/2019.fossasia.org)
 <!--END_SECTION:activity-->
 
