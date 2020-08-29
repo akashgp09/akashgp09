@@ -58,8 +58,8 @@ This was the major factor that resulted in me picking an interest in programming
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1479](https://github.com//layer5io/meshery/issues/1479) in [layer5io/meshery](https://github.com//layer5io/meshery)
-2. 🗣 Commented on [#12](https://github.com//jamesgeorge007/github-activity-readme/issues/12) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+1. 🗣 Commented on [#107](https://github.com//layer5io/service-mesh-performance/issues/107) in [layer5io/service-mesh-performance](https://github.com//layer5io/service-mesh-performance)
+2. ❗️ Opened issue [#1479](https://github.com//layer5io/meshery/issues/1479) in [layer5io/meshery](https://github.com//layer5io/meshery)
 <!--END_SECTION:activity-->
 
 </details>
