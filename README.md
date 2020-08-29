@@ -58,8 +58,8 @@ This was the major factor that resulted in me picking an interest in programming
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1484](https://github.com//layer5io/meshery/pull/1484) in [layer5io/meshery](https://github.com//layer5io/meshery)
-2. 🗣 Commented on [#1483](https://github.com//layer5io/meshery/issues/1483) in [layer5io/meshery](https://github.com//layer5io/meshery)
+1. 🗣 Commented on [#1484](https://github.com//layer5io/meshery/issues/1484) in [layer5io/meshery](https://github.com//layer5io/meshery)
+2. 💪 Opened PR [#1484](https://github.com//layer5io/meshery/pull/1484) in [layer5io/meshery](https://github.com//layer5io/meshery)
 <!--END_SECTION:activity-->
 
 </details>
