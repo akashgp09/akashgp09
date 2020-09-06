@@ -1,8 +1,8 @@
 <img src="https://i.imgur.com/IMKvTmk.png" height="260" width="100%" >
 <p align='center'>
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/alphamatter1)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@akashgp9)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/akashgp09)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@akashgp09)
 [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://akashgp.netlify.app/)
 [<img src ="https://img.shields.io/badge/Mail-me-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:akashgp9@gmail.com)
 [![Visits Badge](https://badges.pufler.dev/visits/akashgp09/akashgp09?style=for-the-badge&color=blue)](https://github.com/akashgp09/akashgp09)
