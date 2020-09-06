@@ -5,8 +5,8 @@
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@akashgp9)
 [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://akashgp.netlify.app/)
 [<img src ="https://img.shields.io/badge/Mail-me-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:akashgp9@gmail.com)
-[![Visits Badge](https://badges.pufler.dev/visits/Akash-Gupta-Sudo/Akash-Gupta-Sudo?style=for-the-badge&color=blue)](https://github.com/Akash-Gupta-Sudo/Akash-Gupta-Sudo)
-![Repos Badge](https://badges.pufler.dev/repos/Akash-Gupta-Sudo?style=for-the-badge&color=red)
+[![Visits Badge](https://badges.pufler.dev/visits/akashgp09/akashgp09?style=for-the-badge&color=blue)](https://github.com/Akash-Gupta-Sudo/akashgp09)
+![Repos Badge](https://badges.pufler.dev/repos/akashgp09?style=for-the-badge&color=red)
 
 </p>
 
@@ -35,7 +35,7 @@ This was the major factor that resulted in me picking an interest in programming
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="express.js" width="26px" src="https://i.imgur.com/G8WlZSc.png" />
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="SQL" width="26px" src="https://i.imgur.com/UwvNkfN.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -57,8 +57,6 @@ This was the major factor that resulted in me picking an interest in programming
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26](https://github.com//jamesgeorge007/github-activity-readme/pull/26) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-2. 🗣 Commented on [#8](https://github.com//jamesgeorge007/github-activity-readme/issues/8) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-<!--END_SECTION:activity-->
+
 
 </details>
