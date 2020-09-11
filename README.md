@@ -57,11 +57,11 @@ This was the major factor that resulted in me picking an interest in programming
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#228](https://github.com//judge0/judge0/issues/228) in [judge0/judge0](https://github.com//judge0/judge0)
-2. 🗣 Commented on [#228](https://github.com//judge0/judge0/issues/228) in [judge0/judge0](https://github.com//judge0/judge0)
-3. ❗️ Opened issue [#228](https://github.com//judge0/judge0/issues/228) in [judge0/judge0](https://github.com//judge0/judge0)
-4. 💪 Opened PR [#26](https://github.com//jamesgeorge007/github-activity-readme/pull/26) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#8](https://github.com//jamesgeorge007/github-activity-readme/issues/8) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+1. 🗣 Commented on [#228](https://github.com//judge0/judge0/issues/228) in [judge0/judge0](https://github.com//judge0/judge0)
+2. ❗️ Closed issue [#228](https://github.com//judge0/judge0/issues/228) in [judge0/judge0](https://github.com//judge0/judge0)
+3. 🗣 Commented on [#228](https://github.com//judge0/judge0/issues/228) in [judge0/judge0](https://github.com//judge0/judge0)
+4. ❗️ Opened issue [#228](https://github.com//judge0/judge0/issues/228) in [judge0/judge0](https://github.com//judge0/judge0)
+5. 💪 Opened PR [#26](https://github.com//jamesgeorge007/github-activity-readme/pull/26) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 
