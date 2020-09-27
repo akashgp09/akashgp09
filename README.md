@@ -57,11 +57,11 @@ This was the major factor that resulted in me picking an interest in programming
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#21](https://github.com//puf17640/git-badges/issues/21) in [puf17640/git-badges](https://github.com//puf17640/git-badges)
-2. 🗣 Commented on [#228](https://github.com//judge0/judge0/issues/228) in [judge0/judge0](https://github.com//judge0/judge0)
-3. ❗️ Closed issue [#228](https://github.com//judge0/judge0/issues/228) in [judge0/judge0](https://github.com//judge0/judge0)
-4. 🗣 Commented on [#228](https://github.com//judge0/judge0/issues/228) in [judge0/judge0](https://github.com//judge0/judge0)
-5. ❗️ Opened issue [#228](https://github.com//judge0/judge0/issues/228) in [judge0/judge0](https://github.com//judge0/judge0)
+1. 🗣 Commented on [#48](https://github.com//judge0/judge0/issues/48) in [judge0/judge0](https://github.com//judge0/judge0)
+2. ❗️ Opened issue [#21](https://github.com//puf17640/git-badges/issues/21) in [puf17640/git-badges](https://github.com//puf17640/git-badges)
+3. 🗣 Commented on [#228](https://github.com//judge0/judge0/issues/228) in [judge0/judge0](https://github.com//judge0/judge0)
+4. ❗️ Closed issue [#228](https://github.com//judge0/judge0/issues/228) in [judge0/judge0](https://github.com//judge0/judge0)
+5. 🗣 Commented on [#228](https://github.com//judge0/judge0/issues/228) in [judge0/judge0](https://github.com//judge0/judge0)
 <!--END_SECTION:activity-->
 
 
