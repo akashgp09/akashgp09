@@ -60,9 +60,9 @@ This was the major factor that resulted in me picking an interest in programming
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#236](https://github.com//judge0/judge0/issues/236) in [judge0/judge0](https://github.com//judge0/judge0)
 2. 🗣 Commented on [#236](https://github.com//judge0/judge0/issues/236) in [judge0/judge0](https://github.com//judge0/judge0)
-3. ❗️ Closed issue [#491](https://github.com//motdotla/dotenv/issues/491) in [motdotla/dotenv](https://github.com//motdotla/dotenv)
-4. ❗️ Closed issue [#236](https://github.com//judge0/judge0/issues/236) in [judge0/judge0](https://github.com//judge0/judge0)
-5. ❗️ Opened issue [#236](https://github.com//judge0/judge0/issues/236) in [judge0/judge0](https://github.com//judge0/judge0)
+3. 🗣 Commented on [#236](https://github.com//judge0/judge0/issues/236) in [judge0/judge0](https://github.com//judge0/judge0)
+4. ❗️ Closed issue [#491](https://github.com//motdotla/dotenv/issues/491) in [motdotla/dotenv](https://github.com//motdotla/dotenv)
+5. ❗️ Closed issue [#236](https://github.com//judge0/judge0/issues/236) in [judge0/judge0](https://github.com//judge0/judge0)
 <!--END_SECTION:activity-->
 
 
