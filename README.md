@@ -58,10 +58,10 @@ This was the major factor that resulted in me picking an interest in programming
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#236](https://github.com//judge0/judge0/issues/236) in [judge0/judge0](https://github.com//judge0/judge0)
-2. ❗️ Opened issue [#236](https://github.com//judge0/judge0/issues/236) in [judge0/judge0](https://github.com//judge0/judge0)
-3. ❗️ Opened issue [#491](https://github.com//motdotla/dotenv/issues/491) in [motdotla/dotenv](https://github.com//motdotla/dotenv)
-4. 🗣 Commented on [#48](https://github.com//judge0/judge0/issues/48) in [judge0/judge0](https://github.com//judge0/judge0)
+1. ❗️ Closed issue [#491](https://github.com//motdotla/dotenv/issues/491) in [motdotla/dotenv](https://github.com//motdotla/dotenv)
+2. ❗️ Closed issue [#236](https://github.com//judge0/judge0/issues/236) in [judge0/judge0](https://github.com//judge0/judge0)
+3. ❗️ Opened issue [#236](https://github.com//judge0/judge0/issues/236) in [judge0/judge0](https://github.com//judge0/judge0)
+4. ❗️ Opened issue [#491](https://github.com//motdotla/dotenv/issues/491) in [motdotla/dotenv](https://github.com//motdotla/dotenv)
 5. 🗣 Commented on [#48](https://github.com//judge0/judge0/issues/48) in [judge0/judge0](https://github.com//judge0/judge0)
 <!--END_SECTION:activity-->
 
