@@ -58,11 +58,11 @@ This was the major factor that resulted in me picking an interest in programming
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1878](https://github.com//layer5io/meshery/issues/1878) in [layer5io/meshery](https://github.com//layer5io/meshery)
-2. ❗️ Opened issue [#1876](https://github.com//layer5io/meshery/issues/1876) in [layer5io/meshery](https://github.com//layer5io/meshery)
-3. 🗣 Commented on [#1028](https://github.com//layer5io/layer5/issues/1028) in [layer5io/layer5](https://github.com//layer5io/layer5)
+1. 💪 Opened PR [#2](https://github.com//DSC-KIIT/dsckiit-website-2.0/pull/2) in [DSC-KIIT/dsckiit-website-2.0](https://github.com//DSC-KIIT/dsckiit-website-2.0)
+2. 🗣 Commented on [#1878](https://github.com//layer5io/meshery/issues/1878) in [layer5io/meshery](https://github.com//layer5io/meshery)
+3. ❗️ Opened issue [#1876](https://github.com//layer5io/meshery/issues/1876) in [layer5io/meshery](https://github.com//layer5io/meshery)
 4. 🗣 Commented on [#1028](https://github.com//layer5io/layer5/issues/1028) in [layer5io/layer5](https://github.com//layer5io/layer5)
-5. 💪 Opened PR [#1028](https://github.com//layer5io/layer5/pull/1028) in [layer5io/layer5](https://github.com//layer5io/layer5)
+5. 🗣 Commented on [#1028](https://github.com//layer5io/layer5/issues/1028) in [layer5io/layer5](https://github.com//layer5io/layer5)
 <!--END_SECTION:activity-->
 
 
