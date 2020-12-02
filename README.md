@@ -59,10 +59,10 @@ This was the major factor that resulted in me picking an interest in programming
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1202](https://github.com//layer5io/layer5/issues/1202) in [layer5io/layer5](https://github.com//layer5io/layer5)
-2. 💪 Opened PR [#1202](https://github.com//layer5io/layer5/pull/1202) in [layer5io/layer5](https://github.com//layer5io/layer5)
-3. 🗣 Commented on [#1197](https://github.com//layer5io/layer5/issues/1197) in [layer5io/layer5](https://github.com//layer5io/layer5)
+2. 🗣 Commented on [#1202](https://github.com//layer5io/layer5/issues/1202) in [layer5io/layer5](https://github.com//layer5io/layer5)
+3. 💪 Opened PR [#1202](https://github.com//layer5io/layer5/pull/1202) in [layer5io/layer5](https://github.com//layer5io/layer5)
 4. 🗣 Commented on [#1197](https://github.com//layer5io/layer5/issues/1197) in [layer5io/layer5](https://github.com//layer5io/layer5)
-5. 🗣 Commented on [#1196](https://github.com//layer5io/layer5/issues/1196) in [layer5io/layer5](https://github.com//layer5io/layer5)
+5. 🗣 Commented on [#1197](https://github.com//layer5io/layer5/issues/1197) in [layer5io/layer5](https://github.com//layer5io/layer5)
 <!--END_SECTION:activity-->
 
 
