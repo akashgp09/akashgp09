@@ -60,11 +60,11 @@ This was the major factor that resulted in me picking an interest in programming
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com//DSC-KIIT/dsckiit-website-2.0/pull/9) in [DSC-KIIT/dsckiit-website-2.0](https://github.com//DSC-KIIT/dsckiit-website-2.0)
-2. 💪 Opened PR [#7](https://github.com//DSC-KIIT/dsckiit-website-2.0/pull/7) in [DSC-KIIT/dsckiit-website-2.0](https://github.com//DSC-KIIT/dsckiit-website-2.0)
-3. 🗣 Commented on [#1202](https://github.com//layer5io/layer5/issues/1202) in [layer5io/layer5](https://github.com//layer5io/layer5)
+1. 💪 Opened PR [#12](https://github.com//DSC-KIIT/dsckiit-website-2.0/pull/12) in [DSC-KIIT/dsckiit-website-2.0](https://github.com//DSC-KIIT/dsckiit-website-2.0)
+2. 💪 Opened PR [#9](https://github.com//DSC-KIIT/dsckiit-website-2.0/pull/9) in [DSC-KIIT/dsckiit-website-2.0](https://github.com//DSC-KIIT/dsckiit-website-2.0)
+3. 💪 Opened PR [#7](https://github.com//DSC-KIIT/dsckiit-website-2.0/pull/7) in [DSC-KIIT/dsckiit-website-2.0](https://github.com//DSC-KIIT/dsckiit-website-2.0)
 4. 🗣 Commented on [#1202](https://github.com//layer5io/layer5/issues/1202) in [layer5io/layer5](https://github.com//layer5io/layer5)
-5. 💪 Opened PR [#1202](https://github.com//layer5io/layer5/pull/1202) in [layer5io/layer5](https://github.com//layer5io/layer5)
+5. 🗣 Commented on [#1202](https://github.com//layer5io/layer5/issues/1202) in [layer5io/layer5](https://github.com//layer5io/layer5)
 <!--END_SECTION:activity-->
 
 
