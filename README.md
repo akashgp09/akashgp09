@@ -60,11 +60,11 @@ This was the major factor that resulted in me picking an interest in programming
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com//akashgp09/dsc-asjx/pull/15) in [akashgp09/dsc-asjx](https://github.com//akashgp09/dsc-asjx)
-2. 💪 Opened PR [#15](https://github.com//akashgp09/dsc-asjx/pull/15) in [akashgp09/dsc-asjx](https://github.com//akashgp09/dsc-asjx)
-3. 🎉 Merged PR [#14](https://github.com//akashgp09/dsc-asjx/pull/14) in [akashgp09/dsc-asjx](https://github.com//akashgp09/dsc-asjx)
-4. 💪 Opened PR [#14](https://github.com//akashgp09/dsc-asjx/pull/14) in [akashgp09/dsc-asjx](https://github.com//akashgp09/dsc-asjx)
-5. 🎉 Merged PR [#11](https://github.com//akashgp09/dsc-asjx/pull/11) in [akashgp09/dsc-asjx](https://github.com//akashgp09/dsc-asjx)
+1. ❗️ Closed issue [#17](https://github.com//akashgp09/dsc-asjx/issues/17) in [akashgp09/dsc-asjx](https://github.com//akashgp09/dsc-asjx)
+2. 🗣 Commented on [#17](https://github.com//akashgp09/dsc-asjx/issues/17) in [akashgp09/dsc-asjx](https://github.com//akashgp09/dsc-asjx)
+3. 🎉 Merged PR [#15](https://github.com//akashgp09/dsc-asjx/pull/15) in [akashgp09/dsc-asjx](https://github.com//akashgp09/dsc-asjx)
+4. 💪 Opened PR [#15](https://github.com//akashgp09/dsc-asjx/pull/15) in [akashgp09/dsc-asjx](https://github.com//akashgp09/dsc-asjx)
+5. 🎉 Merged PR [#14](https://github.com//akashgp09/dsc-asjx/pull/14) in [akashgp09/dsc-asjx](https://github.com//akashgp09/dsc-asjx)
 <!--END_SECTION:activity-->
 
 
