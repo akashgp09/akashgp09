@@ -60,11 +60,11 @@ This was the major factor that resulted in me picking an interest in programming
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#64](https://github.com//DSC-KIIT/dsckiit-website-2.0/pull/64) in [DSC-KIIT/dsckiit-website-2.0](https://github.com//DSC-KIIT/dsckiit-website-2.0)
-2. 💪 Opened PR [#55](https://github.com//DSC-KIIT/dsckiit-website-2.0/pull/55) in [DSC-KIIT/dsckiit-website-2.0](https://github.com//DSC-KIIT/dsckiit-website-2.0)
-3. 💪 Opened PR [#52](https://github.com//DSC-KIIT/dsckiit-website-2.0/pull/52) in [DSC-KIIT/dsckiit-website-2.0](https://github.com//DSC-KIIT/dsckiit-website-2.0)
-4. 🎉 Merged PR [#30](https://github.com//akashgp09/dsc-asjx/pull/30) in [akashgp09/dsc-asjx](https://github.com//akashgp09/dsc-asjx)
-5. 💪 Opened PR [#30](https://github.com//akashgp09/dsc-asjx/pull/30) in [akashgp09/dsc-asjx](https://github.com//akashgp09/dsc-asjx)
+1. ❗️ Opened issue [#1410](https://github.com//layer5io/layer5/issues/1410) in [layer5io/layer5](https://github.com//layer5io/layer5)
+2. 💪 Opened PR [#64](https://github.com//DSC-KIIT/dsckiit-website-2.0/pull/64) in [DSC-KIIT/dsckiit-website-2.0](https://github.com//DSC-KIIT/dsckiit-website-2.0)
+3. 💪 Opened PR [#55](https://github.com//DSC-KIIT/dsckiit-website-2.0/pull/55) in [DSC-KIIT/dsckiit-website-2.0](https://github.com//DSC-KIIT/dsckiit-website-2.0)
+4. 💪 Opened PR [#52](https://github.com//DSC-KIIT/dsckiit-website-2.0/pull/52) in [DSC-KIIT/dsckiit-website-2.0](https://github.com//DSC-KIIT/dsckiit-website-2.0)
+5. 🎉 Merged PR [#30](https://github.com//akashgp09/dsc-asjx/pull/30) in [akashgp09/dsc-asjx](https://github.com//akashgp09/dsc-asjx)
 <!--END_SECTION:activity-->
 
 
