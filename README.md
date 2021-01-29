@@ -60,11 +60,11 @@ This was the major factor that resulted in me picking an interest in programming
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4231](https://github.com//elastic/eui/issues/4231) in [elastic/eui](https://github.com//elastic/eui)
-2. ❗️ Closed issue [#1410](https://github.com//layer5io/layer5/issues/1410) in [layer5io/layer5](https://github.com//layer5io/layer5)
-3. 🗣 Commented on [#1410](https://github.com//layer5io/layer5/issues/1410) in [layer5io/layer5](https://github.com//layer5io/layer5)
-4. ❗️ Opened issue [#1410](https://github.com//layer5io/layer5/issues/1410) in [layer5io/layer5](https://github.com//layer5io/layer5)
-5. 💪 Opened PR [#64](https://github.com//DSC-KIIT/dsckiit-website-2.0/pull/64) in [DSC-KIIT/dsckiit-website-2.0](https://github.com//DSC-KIIT/dsckiit-website-2.0)
+1. 💪 Opened PR [#4459](https://github.com//elastic/eui/pull/4459) in [elastic/eui](https://github.com//elastic/eui)
+2. 🗣 Commented on [#4231](https://github.com//elastic/eui/issues/4231) in [elastic/eui](https://github.com//elastic/eui)
+3. ❗️ Closed issue [#1410](https://github.com//layer5io/layer5/issues/1410) in [layer5io/layer5](https://github.com//layer5io/layer5)
+4. 🗣 Commented on [#1410](https://github.com//layer5io/layer5/issues/1410) in [layer5io/layer5](https://github.com//layer5io/layer5)
+5. ❗️ Opened issue [#1410](https://github.com//layer5io/layer5/issues/1410) in [layer5io/layer5](https://github.com//layer5io/layer5)
 <!--END_SECTION:activity-->
 
 
