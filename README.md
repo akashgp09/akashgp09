@@ -60,11 +60,11 @@ This was the major factor that resulted in me picking an interest in programming
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4505](https://github.com//elastic/eui/pull/4505) in [elastic/eui](https://github.com//elastic/eui)
-2. 🗣 Commented on [#4482](https://github.com//elastic/eui/issues/4482) in [elastic/eui](https://github.com//elastic/eui)
+1. 🗣 Commented on [#4503](https://github.com//elastic/eui/issues/4503) in [elastic/eui](https://github.com//elastic/eui)
+2. 💪 Opened PR [#4505](https://github.com//elastic/eui/pull/4505) in [elastic/eui](https://github.com//elastic/eui)
 3. 🗣 Commented on [#4482](https://github.com//elastic/eui/issues/4482) in [elastic/eui](https://github.com//elastic/eui)
-4. ❗️ Opened issue [#68771](https://github.com//elastic/elasticsearch/issues/68771) in [elastic/elasticsearch](https://github.com//elastic/elasticsearch)
-5. 🗣 Commented on [#4482](https://github.com//elastic/eui/issues/4482) in [elastic/eui](https://github.com//elastic/eui)
+4. 🗣 Commented on [#4482](https://github.com//elastic/eui/issues/4482) in [elastic/eui](https://github.com//elastic/eui)
+5. ❗️ Opened issue [#68771](https://github.com//elastic/elasticsearch/issues/68771) in [elastic/elasticsearch](https://github.com//elastic/elasticsearch)
 <!--END_SECTION:activity-->
 
 
