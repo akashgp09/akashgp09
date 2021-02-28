@@ -60,11 +60,11 @@ This was the major factor that resulted in me picking an interest in programming
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4497](https://github.com//elastic/eui/issues/4497) in [elastic/eui](https://github.com//elastic/eui)
-2. 🗣 Commented on [#4563](https://github.com//elastic/eui/issues/4563) in [elastic/eui](https://github.com//elastic/eui)
+1. 🗣 Commented on [#4585](https://github.com//elastic/eui/issues/4585) in [elastic/eui](https://github.com//elastic/eui)
+2. 🗣 Commented on [#4497](https://github.com//elastic/eui/issues/4497) in [elastic/eui](https://github.com//elastic/eui)
 3. 🗣 Commented on [#4563](https://github.com//elastic/eui/issues/4563) in [elastic/eui](https://github.com//elastic/eui)
 4. 🗣 Commented on [#4563](https://github.com//elastic/eui/issues/4563) in [elastic/eui](https://github.com//elastic/eui)
-5. 💪 Opened PR [#69626](https://github.com//elastic/elasticsearch/pull/69626) in [elastic/elasticsearch](https://github.com//elastic/elasticsearch)
+5. 🗣 Commented on [#4563](https://github.com//elastic/eui/issues/4563) in [elastic/eui](https://github.com//elastic/eui)
 <!--END_SECTION:activity-->
 
 
