@@ -61,11 +61,11 @@ This was the major factor that resulted in me picking an interest in programming
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4601](https://github.com//elastic/eui/issues/4601) in [elastic/eui](https://github.com//elastic/eui)
-2. 💪 Opened PR [#4617](https://github.com//elastic/eui/pull/4617) in [elastic/eui](https://github.com//elastic/eui)
-3. 💪 Opened PR [#4610](https://github.com//elastic/eui/pull/4610) in [elastic/eui](https://github.com//elastic/eui)
-4. 💪 Opened PR [#4601](https://github.com//elastic/eui/pull/4601) in [elastic/eui](https://github.com//elastic/eui)
-5. 🗣 Commented on [#4599](https://github.com//elastic/eui/issues/4599) in [elastic/eui](https://github.com//elastic/eui)
+1. 💪 Opened PR [#1058](https://github.com//elastic/elastic-charts/pull/1058) in [elastic/elastic-charts](https://github.com//elastic/elastic-charts)
+2. 🗣 Commented on [#4601](https://github.com//elastic/eui/issues/4601) in [elastic/eui](https://github.com//elastic/eui)
+3. 💪 Opened PR [#4617](https://github.com//elastic/eui/pull/4617) in [elastic/eui](https://github.com//elastic/eui)
+4. 💪 Opened PR [#4610](https://github.com//elastic/eui/pull/4610) in [elastic/eui](https://github.com//elastic/eui)
+5. 💪 Opened PR [#4601](https://github.com//elastic/eui/pull/4601) in [elastic/eui](https://github.com//elastic/eui)
 <!--END_SECTION:activity-->
 
 
