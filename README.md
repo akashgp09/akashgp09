@@ -61,11 +61,11 @@ This was the major factor that resulted in me picking an interest in programming
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1066](https://github.com//elastic/elastic-charts/pull/1066) in [elastic/elastic-charts](https://github.com//elastic/elastic-charts)
-2. 🗣 Commented on [#4629](https://github.com//elastic/eui/issues/4629) in [elastic/eui](https://github.com//elastic/eui)
-3. 🗣 Commented on [#4629](https://github.com//elastic/eui/issues/4629) in [elastic/eui](https://github.com//elastic/eui)
-4. 💪 Opened PR [#1060](https://github.com//elastic/elastic-charts/pull/1060) in [elastic/elastic-charts](https://github.com//elastic/elastic-charts)
-5. ❗️ Opened issue [#1059](https://github.com//elastic/elastic-charts/issues/1059) in [elastic/elastic-charts](https://github.com//elastic/elastic-charts)
+1. 🗣 Commented on [#6967](https://github.com//puppeteer/puppeteer/issues/6967) in [puppeteer/puppeteer](https://github.com//puppeteer/puppeteer)
+2. ❗️ Opened issue [#6967](https://github.com//puppeteer/puppeteer/issues/6967) in [puppeteer/puppeteer](https://github.com//puppeteer/puppeteer)
+3. 💪 Opened PR [#1066](https://github.com//elastic/elastic-charts/pull/1066) in [elastic/elastic-charts](https://github.com//elastic/elastic-charts)
+4. 🗣 Commented on [#4629](https://github.com//elastic/eui/issues/4629) in [elastic/eui](https://github.com//elastic/eui)
+5. 🗣 Commented on [#4629](https://github.com//elastic/eui/issues/4629) in [elastic/eui](https://github.com//elastic/eui)
 <!--END_SECTION:activity-->
 
 
