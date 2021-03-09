@@ -61,11 +61,11 @@ This was the major factor that resulted in me picking an interest in programming
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1060](https://github.com//elastic/elastic-charts/pull/1060) in [elastic/elastic-charts](https://github.com//elastic/elastic-charts)
-2. ❗️ Opened issue [#1059](https://github.com//elastic/elastic-charts/issues/1059) in [elastic/elastic-charts](https://github.com//elastic/elastic-charts)
-3. 💪 Opened PR [#1058](https://github.com//elastic/elastic-charts/pull/1058) in [elastic/elastic-charts](https://github.com//elastic/elastic-charts)
-4. 🗣 Commented on [#4601](https://github.com//elastic/eui/issues/4601) in [elastic/eui](https://github.com//elastic/eui)
-5. 💪 Opened PR [#4617](https://github.com//elastic/eui/pull/4617) in [elastic/eui](https://github.com//elastic/eui)
+1. 🗣 Commented on [#4629](https://github.com//elastic/eui/issues/4629) in [elastic/eui](https://github.com//elastic/eui)
+2. 🗣 Commented on [#4629](https://github.com//elastic/eui/issues/4629) in [elastic/eui](https://github.com//elastic/eui)
+3. 💪 Opened PR [#1060](https://github.com//elastic/elastic-charts/pull/1060) in [elastic/elastic-charts](https://github.com//elastic/elastic-charts)
+4. ❗️ Opened issue [#1059](https://github.com//elastic/elastic-charts/issues/1059) in [elastic/elastic-charts](https://github.com//elastic/elastic-charts)
+5. 💪 Opened PR [#1058](https://github.com//elastic/elastic-charts/pull/1058) in [elastic/elastic-charts](https://github.com//elastic/elastic-charts)
 <!--END_SECTION:activity-->
 
 
