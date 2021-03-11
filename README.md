@@ -61,11 +61,11 @@ This was the major factor that resulted in me picking an interest in programming
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3202](https://github.com//google/shaka-player/issues/3202) in [google/shaka-player](https://github.com//google/shaka-player)
-2. 💪 Opened PR [#3202](https://github.com//google/shaka-player/pull/3202) in [google/shaka-player](https://github.com//google/shaka-player)
-3. ❗️ Opened issue [#3201](https://github.com//google/shaka-player/issues/3201) in [google/shaka-player](https://github.com//google/shaka-player)
-4. 🗣 Commented on [#2316](https://github.com//google/shaka-player/issues/2316) in [google/shaka-player](https://github.com//google/shaka-player)
-5. 🗣 Commented on [#6967](https://github.com//puppeteer/puppeteer/issues/6967) in [puppeteer/puppeteer](https://github.com//puppeteer/puppeteer)
+1. 💪 Opened PR [#559](https://github.com//bookbrainz/bookbrainz-site/pull/559) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
+2. 🗣 Commented on [#3202](https://github.com//google/shaka-player/issues/3202) in [google/shaka-player](https://github.com//google/shaka-player)
+3. 💪 Opened PR [#3202](https://github.com//google/shaka-player/pull/3202) in [google/shaka-player](https://github.com//google/shaka-player)
+4. ❗️ Opened issue [#3201](https://github.com//google/shaka-player/issues/3201) in [google/shaka-player](https://github.com//google/shaka-player)
+5. 🗣 Commented on [#2316](https://github.com//google/shaka-player/issues/2316) in [google/shaka-player](https://github.com//google/shaka-player)
 <!--END_SECTION:activity-->
 
 
