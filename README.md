@@ -61,11 +61,11 @@ This was the major factor that resulted in me picking an interest in programming
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#569](https://github.com//bookbrainz/bookbrainz-site/issues/569) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
-2. 💪 Opened PR [#568](https://github.com//bookbrainz/bookbrainz-site/pull/568) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
-3. 🗣 Commented on [#563](https://github.com//bookbrainz/bookbrainz-site/issues/563) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
-4. 💪 Opened PR [#564](https://github.com//bookbrainz/bookbrainz-site/pull/564) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
-5. ❌ Reopened PR [#563](https://github.com//bookbrainz/bookbrainz-site/pull/563) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
+1. 💪 Opened PR [#570](https://github.com//bookbrainz/bookbrainz-site/pull/570) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
+2. 🗣 Commented on [#569](https://github.com//bookbrainz/bookbrainz-site/issues/569) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
+3. 💪 Opened PR [#568](https://github.com//bookbrainz/bookbrainz-site/pull/568) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
+4. 🗣 Commented on [#563](https://github.com//bookbrainz/bookbrainz-site/issues/563) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
+5. 💪 Opened PR [#564](https://github.com//bookbrainz/bookbrainz-site/pull/564) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
 <!--END_SECTION:activity-->
 
 
