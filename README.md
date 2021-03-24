@@ -64,8 +64,8 @@ This was the major factor that resulted in me picking an interest in programming
 1. 🗣 Commented on [#572](https://github.com//bookbrainz/bookbrainz-site/issues/572) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
 2. 🗣 Commented on [#572](https://github.com//bookbrainz/bookbrainz-site/issues/572) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
 3. 🗣 Commented on [#572](https://github.com//bookbrainz/bookbrainz-site/issues/572) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
-4. 💪 Opened PR [#581](https://github.com//bookbrainz/bookbrainz-site/pull/581) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
-5. ❗️ Opened issue [#526](https://github.com//cure53/DOMPurify/issues/526) in [cure53/DOMPurify](https://github.com//cure53/DOMPurify)
+4. 🗣 Commented on [#572](https://github.com//bookbrainz/bookbrainz-site/issues/572) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
+5. 💪 Opened PR [#581](https://github.com//bookbrainz/bookbrainz-site/pull/581) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
 <!--END_SECTION:activity-->
 
 
