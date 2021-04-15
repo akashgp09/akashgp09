@@ -61,11 +61,11 @@ This was the major factor that resulted in me picking an interest in programming
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4697](https://github.com//elastic/eui/pull/4697) in [elastic/eui](https://github.com//elastic/eui)
-2. 💪 Opened PR [#599](https://github.com//bookbrainz/bookbrainz-site/pull/599) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
-3. 💪 Opened PR [#598](https://github.com//bookbrainz/bookbrainz-site/pull/598) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
-4. 💪 Opened PR [#594](https://github.com//bookbrainz/bookbrainz-site/pull/594) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
-5. 💪 Opened PR [#593](https://github.com//bookbrainz/bookbrainz-site/pull/593) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
+1. 💪 Opened PR [#601](https://github.com//bookbrainz/bookbrainz-site/pull/601) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
+2. 💪 Opened PR [#4697](https://github.com//elastic/eui/pull/4697) in [elastic/eui](https://github.com//elastic/eui)
+3. 💪 Opened PR [#599](https://github.com//bookbrainz/bookbrainz-site/pull/599) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
+4. 💪 Opened PR [#598](https://github.com//bookbrainz/bookbrainz-site/pull/598) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
+5. 💪 Opened PR [#594](https://github.com//bookbrainz/bookbrainz-site/pull/594) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
 <!--END_SECTION:activity-->
 
 
