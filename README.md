@@ -61,11 +61,11 @@ This was the major factor that resulted in me picking an interest in programming
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#262](https://github.com//bookbrainz/bookbrainz-data-js/issues/262) in [bookbrainz/bookbrainz-data-js](https://github.com//bookbrainz/bookbrainz-data-js)
-2. 🗣 Commented on [#587](https://github.com//bookbrainz/bookbrainz-site/issues/587) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
-3. 💪 Opened PR [#621](https://github.com//bookbrainz/bookbrainz-site/pull/621) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
-4. 💪 Opened PR [#620](https://github.com//bookbrainz/bookbrainz-site/pull/620) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
-5. 💪 Opened PR [#619](https://github.com//bookbrainz/bookbrainz-site/pull/619) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
+1. 💪 Opened PR [#266](https://github.com//bookbrainz/bookbrainz-data-js/pull/266) in [bookbrainz/bookbrainz-data-js](https://github.com//bookbrainz/bookbrainz-data-js)
+2. 💪 Opened PR [#265](https://github.com//bookbrainz/bookbrainz-data-js/pull/265) in [bookbrainz/bookbrainz-data-js](https://github.com//bookbrainz/bookbrainz-data-js)
+3. 🗣 Commented on [#262](https://github.com//bookbrainz/bookbrainz-data-js/issues/262) in [bookbrainz/bookbrainz-data-js](https://github.com//bookbrainz/bookbrainz-data-js)
+4. 🗣 Commented on [#587](https://github.com//bookbrainz/bookbrainz-site/issues/587) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
+5. 💪 Opened PR [#621](https://github.com//bookbrainz/bookbrainz-site/pull/621) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
 <!--END_SECTION:activity-->
 
 
