@@ -61,11 +61,11 @@ This was the major factor that resulted in me picking an interest in programming
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6372](https://github.com//opencollective/opencollective-frontend/issues/6372) in [opencollective/opencollective-frontend](https://github.com//opencollective/opencollective-frontend)
-2. 💪 Opened PR [#272](https://github.com//bookbrainz/bookbrainz-data-js/pull/272) in [bookbrainz/bookbrainz-data-js](https://github.com//bookbrainz/bookbrainz-data-js)
-3. 💪 Opened PR [#634](https://github.com//bookbrainz/bookbrainz-site/pull/634) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
-4. 💪 Opened PR [#6372](https://github.com//opencollective/opencollective-frontend/pull/6372) in [opencollective/opencollective-frontend](https://github.com//opencollective/opencollective-frontend)
-5. 🗣 Commented on [#4235](https://github.com//opencollective/opencollective/issues/4235) in [opencollective/opencollective](https://github.com//opencollective/opencollective)
+1. ❌ Closed PR [#603](https://github.com//bookbrainz/bookbrainz-site/pull/603) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
+2. 🗣 Commented on [#6372](https://github.com//opencollective/opencollective-frontend/issues/6372) in [opencollective/opencollective-frontend](https://github.com//opencollective/opencollective-frontend)
+3. 💪 Opened PR [#272](https://github.com//bookbrainz/bookbrainz-data-js/pull/272) in [bookbrainz/bookbrainz-data-js](https://github.com//bookbrainz/bookbrainz-data-js)
+4. 💪 Opened PR [#634](https://github.com//bookbrainz/bookbrainz-site/pull/634) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
+5. 💪 Opened PR [#6372](https://github.com//opencollective/opencollective-frontend/pull/6372) in [opencollective/opencollective-frontend](https://github.com//opencollective/opencollective-frontend)
 <!--END_SECTION:activity-->
 
 
