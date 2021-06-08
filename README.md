@@ -57,16 +57,4 @@ This was the major factor that resulted in me picking an interest in programming
 - [Why do we need to bind event handlers in React?](https://medium.com/dsckiit/why-do-we-need-to-bind-event-handlers-in-react-15505f38f689?source=rss-4b29ad99ade7------2)
 <!-- BLOG-POST-LIST:END -->
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#272](https://github.com//bookbrainz/bookbrainz-data-js/issues/272) in [bookbrainz/bookbrainz-data-js](https://github.com//bookbrainz/bookbrainz-data-js)
-2. ❌ Closed PR [#603](https://github.com//bookbrainz/bookbrainz-site/pull/603) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
-3. 🗣 Commented on [#6372](https://github.com//opencollective/opencollective-frontend/issues/6372) in [opencollective/opencollective-frontend](https://github.com//opencollective/opencollective-frontend)
-4. 💪 Opened PR [#272](https://github.com//bookbrainz/bookbrainz-data-js/pull/272) in [bookbrainz/bookbrainz-data-js](https://github.com//bookbrainz/bookbrainz-data-js)
-5. 💪 Opened PR [#634](https://github.com//bookbrainz/bookbrainz-site/pull/634) in [bookbrainz/bookbrainz-site](https://github.com//bookbrainz/bookbrainz-site)
-<!--END_SECTION:activity-->
 
-
-</details>
