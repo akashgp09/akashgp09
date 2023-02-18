@@ -16,7 +16,6 @@ Right from the time, I've always been fascinated by computers and the logic that
 This was the major factor that resulted in me picking an interest in programming and deciding to follow the software development career path.
 
 - 🌱 Currently working, learning and growing my skillset in web development.
-- 🥅 2021 Goals: Contribute more to Open Source projects
 - 🌐 Visit my [porfolio website](https://akashgp09.co/) for complete background and contact.
 - ⚡ Fun fact: I love making memes in my pastime.
 
