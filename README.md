@@ -1,6 +1,6 @@
 <p align='center'>
 
-[<img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://twitter.com/akashgp09)
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akashgp09/)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://akashgp09.medium.com/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/akashgp09)
 [<img src ="https://img.shields.io/badge/Mail-me-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:akashgp9@gmail.com)
