@@ -1,23 +1,16 @@
 <p align='center'>
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/akashgp09)
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://twitter.com/akashgp09)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://akashgp09.medium.com/)
-[<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://akashgp09.co/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/akashgp09)
 [<img src ="https://img.shields.io/badge/Mail-me-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:akashgp9@gmail.com)
+[<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://akashgp09.co/)
 <img src="https://camo.githubusercontent.com/1e449fbf198ca38d7c142083e7fbecc3764f8f11/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616b61736867703039267374796c653d666c61742d737175617265266c6162656c3d564953495453" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=akashgp09&amp;style=flat-square&amp;label=VISITS" style="max-width:100%;" height="28">
-![Repos Badge](https://badges.pufler.dev/repos/akashgp09?style=for-the-badge&color=red)
-
 </p>
 
 ### Hi there 👋
 
-I am a web Developer, Who is slowly conquering the world of stack!
-Right from the time, I've always been fascinated by computers and the logic that made them tick.
-This was the major factor that resulted in me picking an interest in programming and deciding to follow the software development career path.
-
-- 🌱 Currently working, learning and growing my skillset in web development.
-- 🌐 Visit my [porfolio website](https://akashgp09.co/) for complete background and contact.
-- ⚡ Fun fact: I love making memes in my pastime.
+I am a final year undergraduate student pursuing B.Tech in Information Technology at KIIT University. My passion for coding, coupled with a strong aptitude for development, has driven me to choose software development as my career path. I enjoy exploring new technologies and applying them to create innovative solutions for the challenges I encounter.
 
 ### Languages and Tools:
 
