@@ -8,10 +8,6 @@
 <img src="https://camo.githubusercontent.com/1e449fbf198ca38d7c142083e7fbecc3764f8f11/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616b61736867703039267374796c653d666c61742d737175617265266c6162656c3d564953495453" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=akashgp09&amp;style=flat-square&amp;label=VISITS" style="max-width:100%;" height="28">
 </p>
 
-### Hi there 👋
-
-I am a final year undergraduate student pursuing B.Tech in Information Technology at KIIT University. My passion for coding, coupled with a strong aptitude for development, has driven me to choose software development as my career path. I enjoy exploring new technologies and applying them to create innovative solutions for the challenges I encounter.
-
 ---
 
 ### 📕 Latest Blog Posts
